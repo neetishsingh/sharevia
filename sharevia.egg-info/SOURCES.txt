@@ -9,4 +9,5 @@ sharevia/test2.py
 sharevia.egg-info/PKG-INFO
 sharevia.egg-info/SOURCES.txt
 sharevia.egg-info/dependency_links.txt
+sharevia.egg-info/requires.txt
 sharevia.egg-info/top_level.txt

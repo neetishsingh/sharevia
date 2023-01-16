@@ -40,7 +40,7 @@ def getfilefromcurrentpath(filename):
 
 def generateQR():
     import pyqrcode
-    import png
+    #import png
     from pyqrcode import QRCode
     import socket
     hostname = socket.gethostname()
